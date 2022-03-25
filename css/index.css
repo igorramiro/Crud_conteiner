@@ -1,0 +1,25 @@
+#nav{
+    background-color: black;
+    display: flex;
+}
+a{
+    text-decoration: none;
+}
+.nav_item{
+    color: white;
+    padding: 15px;
+}
+.nav_item:hover{
+    background-color: grey;
+}
+table{
+    width: 80%;
+    border: 1px solid;
+}
+th, td{
+    border: 1px solid;
+}
+form{
+    margin-top: 2px;
+    text-align: center;
+}
